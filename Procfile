@@ -1,1 +1,1 @@
-web: node ./Verification/index.js
+web: node ./index.js
